@@ -30,7 +30,6 @@ D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.csproj.Assembl
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\App.g.cs
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend_MarkupCompile.cache
-D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend_MarkupCompile.lref
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\MainWindow.baml
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.g.resources
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.GeneratedMSBuildEditorConfig.editorconfig
@@ -43,3 +42,4 @@ D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\refint\Frontend.dll
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.pdb
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.genruntimeconfig.cache
 D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\ref\Frontend.dll
+D:\git\ChatHub\ChatHub\Frontend\obj\Debug\net8.0-windows\Frontend.sourcelink.json

@@ -1902,9 +1902,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\ChatHub.csproj",
-      "projectName": "ChatHub",
-      "projectPath": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\ChatHub.csproj",
+      "projectUniqueName": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\BackEnd.csproj",
+      "projectName": "BackEnd",
+      "projectPath": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\obj\\",
       "projectStyle": "PackageReference",

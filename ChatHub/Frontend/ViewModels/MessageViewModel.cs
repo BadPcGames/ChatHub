@@ -1,4 +1,4 @@
-﻿namespace ChatHub.Models.ViewModels
+﻿namespace FrontEnd.ViewModels
 {
     public class MessageViewModel
     {

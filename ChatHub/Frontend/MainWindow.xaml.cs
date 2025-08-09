@@ -2,7 +2,8 @@
 using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Input;
-using ChatHub.Models.ViewModels;
+using FrontEnd.ViewModels;
+using Frontend.Model;
 
 namespace Frontend
 {
@@ -25,6 +26,12 @@ namespace Frontend
         {
             var username = string.IsNullOrWhiteSpace(UsernameTextBox.Text) ? "Anonymous" : UsernameTextBox.Text.Trim();
             var serverUrl = $"http://localhost:5014/chathub?username={username}";
+
+            if (_connection != null && _connection.State == HubConnectionState.Connected)
+            {
+                return;
+            }
+
             _connection = new HubConnectionBuilder()
                 .WithUrl(serverUrl)
                 .WithAutomaticReconnect()
@@ -175,21 +182,5 @@ namespace Frontend
                 MessageTextBox.Clear();
             }
         }
-    }
-
-    public class ChatMessage
-    {
-        public Guid Id { get; set; } = Guid.NewGuid();
-        public Guid? UserId { get; set; }
-        public string Text { get; set; } = "";
-        public DateTime Timestamp { get; set; }
-    }
-
-    public class User
-    {
-        public Guid Id { get; set; }
-        public string UserName { get; set; } = "";
-        public string ConnectionId { get; set; } = "";
-        public DateTime ConnectedAt { get; set; }
     }
 }

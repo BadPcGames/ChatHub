@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OIlgZ9rGCH/0OkzFva+8s0a5nb134G+96zHNJjCHKnKx5O1CCwxhMYUMah1/SPcht6UOs/tzoCyRk+lsJay+fQ==",
+  "dgSpecHash": "0uXK95oMhJO6EwmRy/BGutYuzBfu1Cq7nO9E/qd5jaE+QjTdJUWxCD/3b9deFd9nnfBc16FeFBE30hwM/pihxQ==",
   "success": true,
-  "projectFilePath": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\ChatHub.csproj",
+  "projectFilePath": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",
