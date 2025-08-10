@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dpArychW2w90HiaoJAsjHFFnvW7XsZ30n4FbobxdGvzgVHIoKjdx+QZcvhsdjlejz8xIyWA6xDfUEL5IFDCzsA==",
+  "dgSpecHash": "7qShQ5g9S8y9dkSV8SvlUWFDba6FdQWxebATEnRtMr2IQD7bcYVePU6wZCiXDHLbmu8YinIkIZQE0qM9TnNSsw==",
   "success": true,
   "projectFilePath": "D:\\git\\ChatHub\\ChatHub\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mahapps.metro.resources\\0.6.1\\mahapps.metro.resources.0.6.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.8\\microsoft.aspnetcore.connections.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.8\\microsoft.aspnetcore.http.connections.client.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\9.0.8\\microsoft.aspnetcore.http.connections.common.9.0.8.nupkg.sha512",
@@ -20,6 +24,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.8\\microsoft.extensions.logging.abstractions.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\9.0.8\\microsoft.extensions.options.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.8\\system.diagnostics.diagnosticsource.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.io.pipelines\\9.0.8\\system.io.pipelines.9.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.net.serversentevents\\9.0.8\\system.net.serversentevents.9.0.8.nupkg.sha512",

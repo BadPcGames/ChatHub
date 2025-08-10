@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\git\\ChatHub\\ChatHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A954CF4-35F8-453E-A1E6-67C8E8BAD6C2}|ChatHub\\BackEnd.csproj|d:\\git\\chathub\\chathub\\chathub\\logic\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A954CF4-35F8-453E-A1E6-67C8E8BAD6C2}|ChatHub\\BackEnd.csproj|solutionrelative:chathub\\logic\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|D:\\git\\ChatHub\\ChatHub\\frontend\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|D:\\git\\ChatHub\\ChatHub\\frontend\\viewmodels\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\viewmodels\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|D:\\git\\ChatHub\\ChatHub\\frontend\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|D:\\git\\ChatHub\\ChatHub\\frontend\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|d:\\git\\chathub\\chathub\\frontend\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CDEB2B4-8EDF-4686-81D4-E18B399B484F}|Frontend\\Frontend.csproj|solutionrelative:frontend\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +45,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 320,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 165,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,34 +66,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\Logic\\ChatHub.cs",
-              "RelativeDocumentMoniker": "ChatHub\\Logic\\ChatHub.cs",
-              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\ChatHub\\Logic\\ChatHub.cs",
-              "RelativeToolTip": "ChatHub\\Logic\\ChatHub.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAgwFwAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Frontend\\Model\\User.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\Model\\User.cs",
+              "RelativeToolTip": "Frontend\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T11:56:48.328Z",
+              "WhenOpened": "2025-08-10T07:08:27.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\App.xaml",
+              "RelativeDocumentMoniker": "Frontend\\App.xaml",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\App.xaml",
+              "RelativeToolTip": "Frontend\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T05:56:49.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\.filenesting.json",
+              "RelativeDocumentMoniker": "Frontend\\.filenesting.json",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\.filenesting.json",
+              "RelativeToolTip": "Frontend\\.filenesting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T05:45:02.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Frontend\\AssemblyInfo.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\AssemblyInfo.cs",
+              "RelativeToolTip": "Frontend\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:45:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\Model\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Frontend\\Model\\ChatMessage.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\Model\\ChatMessage.cs",
+              "RelativeToolTip": "Frontend\\Model\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:28:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\ViewModels\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ViewModels\\ChatViewModel.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\ViewModels\\ChatViewModel.cs",
+              "RelativeToolTip": "Frontend\\ViewModels\\ChatViewModel.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAswDsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:20:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageViewModel.cs",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\ViewModels\\MessageViewModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ViewModels\\MessageViewModel.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\ViewModels\\MessageViewModel.cs",
+              "RelativeToolTip": "Frontend\\ViewModels\\MessageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:20:41.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Frontend\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Frontend\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T05:19:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Frontend\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Frontend\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwB8AAAAXAAAA",
+              "DocumentMoniker": "D:\\git\\ChatHub\\ChatHub\\Frontend\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Frontend\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\ChatHub\\ChatHub\\Frontend\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Frontend\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T11:55:49.264Z",
+              "WhenOpened": "2025-08-10T05:19:57.243Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 8,
+          "DockedWidth": 163,
           "SelectedChildIndex": -1,
           "Children": [
             {
